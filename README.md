@@ -16,4 +16,5 @@ Because most of my work is proprietary and enterprise-grade, my public activity 
 *   **Open Source:** I have a deep love for Linux/Unix environments and CLI tools.
 
 📫 **Contact:** [coinbr@gmail.com](mailto:coinbr@gmail.com)
+
 🏢 **LinkedIn:** [CoinBR](https://www.linkedin.com/in/coinbr/)
