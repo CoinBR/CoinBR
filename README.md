@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Pedro 👋
 
-<!--
-**CoinBR/CoinBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Lead Engineer** currently working on Risk and Fraud prevention systems at **PayPal**. I specialize in migrating monoliths to microservices and building high-performance financial architectures.
 
-Here are some ideas to get you started:
+Because most of my work is proprietary and enterprise-grade, my public activity here is limited.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech Stack
+*   **Languages:** Java (Quarkus, Spring Boot), Python, Ruby, JavaScript/TypeScript.
+*   **Shell/CLI:** Bash, Zsh, Oil Shell (I love automating workflows).
+*   **Infrastructure:** Docker, Kubernetes, Jenkins, GitHub Actions.
+*   **Core Focus:** Microservices, SOA, TDD, and High-Availability Systems.
+
+#### 🚀 Highlights
+*   **PayPal:** Reduced fraud losses by 30% and deployment times by 80% via microservices migration.
+*   **Meritize:** Built an Advanced Loan Origination Service from scratch; optimized E2E testing speeds by 3x.
+*   **Open Source:** I have a deep love for Linux/Unix environments and CLI tools.
+
+📫 **Contact:** [coinbr@gmail.com](mailto:coinbr@gmail.com)
+🏢 **LinkedIn:** [CoinBR](https://www.linkedin.com/in/coinbr/)
